@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'AS4242421686(CMCC) DN42 node information Site'
+theme = 'even'
