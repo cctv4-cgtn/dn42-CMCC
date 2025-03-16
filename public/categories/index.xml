@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - LoveIt</title>
+        <title>Categories - Category - CMCC DN42 Network</title>
         <link>http://192.168.8.1:80/categories/</link>
-        <description>Categories - Category - LoveIt</description>
+        <description>Categories - Category - CMCC DN42 Network</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://192.168.8.1:80/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
