@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td>DN42 IPv6</td>
-      <td>fd0c:8b7c:d908:8080::1</td>
+      <td>fd0c:8b7c:d908:8080:172:20:167:177</td>
     </tr>
     <tr>
       <td>Link-local IPv6</td>
@@ -65,7 +65,7 @@
     </tr>
     <tr>
       <td>DN42 IPv6</td>
-      <td>fd0c:8b7c:d908:8081::1</td>
+      <td>fd0c:8b7c:d908:8080:172:20:167:179</td>
     </tr>
     <tr>
       <td>Link-local IPv6</td>
@@ -92,3 +92,4 @@
 </br> 
 ## Contact  
 [Please click on this link to view.](/contact/) I recommend sending your peering request and information by email.
+

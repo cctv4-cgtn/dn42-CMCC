@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - CMCC DN42 Network</title>
-        <link>http://192.168.8.1:80/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Tags - Tag - CMCC DN42 Network</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://192.168.8.1:80/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>

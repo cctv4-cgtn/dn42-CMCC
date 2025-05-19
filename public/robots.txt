@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: http://192.168.8.1:80/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml

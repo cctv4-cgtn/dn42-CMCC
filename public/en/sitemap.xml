@@ -2,30 +2,30 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://192.168.8.1:80/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/</loc><lastmod>2025-03-16T14:41:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://192.168.8.1:80/zh-cn/"
+                        href="http://localhost:1313/zh-cn/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://192.168.8.1:80/"
+                    href="http://localhost:1313/"
                     /></url><url>
-            <loc>http://192.168.8.1:80/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://192.168.8.1:80/zh-cn/categories/"
+                        href="http://localhost:1313/zh-cn/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://192.168.8.1:80/categories/"
+                    href="http://localhost:1313/categories/"
                     /></url><url>
-            <loc>http://192.168.8.1:80/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://192.168.8.1:80/zh-cn/tags/"
+                        href="http://localhost:1313/zh-cn/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://192.168.8.1:80/tags/"
+                    href="http://localhost:1313/tags/"
                     /></url></urlset>
