@@ -6,4 +6,4 @@
 	url = https://githubFAST.com/alex-shpak/hugo-book
 [submodule "themes/LoveIt"]
 	path = themes/LoveIt
-	url = https://github.com/cctv4-cgtn/LoveIt/
+	url = https://github.com/dillonzq/LoveIt

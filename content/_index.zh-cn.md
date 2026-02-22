@@ -13,4 +13,11 @@
  详细的注册流程可参考以下网站：[DN42 实验网络介绍及注册教程](https://lantian.pub/article/modify-website/dn42-experimental-network-2020.lantian/)。
 
 ## 关于本ASN对等策略
- 对除了不符合[节点列表](/zh-cn/dn42-information/)下**备注**以外的任意延迟合适（<=200ms）的节点开放连接。
+ 对除了不符合[节点列表](/zh-cn/dn42-information/)下**备注**以外的任意延迟合适（<=100ms）的节点开放连接。
+ 
+## 特别鸣谢
+  [AS213605-pysio](https://www.pysio.online/)
+  </br>
+  [AS211729-baiyuexiao](https://bgp.he.net/AS211729)
+  </br>
+  以及众多对DN42网络提供节点支持的公网ASN Player。

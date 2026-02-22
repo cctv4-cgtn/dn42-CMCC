@@ -12,4 +12,11 @@
 
 ## About My Default Peering Policy
 
- Accept peering with any node have reasonable latency (<=200ms) and conform to the **note** under the [node information](/dn42-information/).
+ Accept peering with any node have reasonable latency (<=100ms) and conform to the **note** under the [node information](/dn42-information/).
+ 
+## Special thanks
+  [AS213605-pysio](https://www.pysio.online/)
+  </br>
+  [AS211729-baiyuexiao](https://bgp.he.net/AS211729)
+  </br>
+  And numerous public ASN Players that provide node support for DN42 networks.
